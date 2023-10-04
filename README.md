@@ -13,7 +13,7 @@ I live in Indonesia, i like martial arts, good food, and coding!
 ### My Favorite Project Repos
 * <a href="https://golden-mousse-eac3d2.netlify.app/">Image Gallery</a> - CRUD Mysql, Node, Express, React
 * <a href="https://sensational-trifle-fcd661.netlify.app/">Tracalorie</a> - react
-* <a href="https://stupendous-entremet-c150b7.netlify.app/">Tracalorie</a> - CRUD with Authentication JWT, React, Mysql, Node  
+* <a href="https://stupendous-entremet-c150b7.netlify.app/">WishBoard</a> - CRUD with Authentication JWT, React, Mysql, Node  
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=iqoll&theme=gotham&show_icons=true"/>
